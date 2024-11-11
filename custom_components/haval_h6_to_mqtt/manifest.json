@@ -1,0 +1,10 @@
+{
+  "domain": "haval_h6_to_mqtt",
+  "name": "Haval H6 to MQTT",
+  "version": "1.0",
+  "documentation": "https://github.com/havaleiros/hassio-haval-h6-to-mqtt",
+  "requirements": ["paho-mqtt==1.5.1"],  # Biblioteca MQTT que o projeto utiliza
+  "dependencies": [],
+  "codeowners": ["@rodrigogbs"],
+  "iot_class": "local_push"
+}
